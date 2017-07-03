@@ -1,3 +1,4 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1621,3 +1622,6 @@ Please refer to [this section](#resolving-heroku-deployment-errors).
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# serverless-notes-client
+An example of client frontend for notes serverless architecture (see serverless-notes-api repository). Framework used is ReactJS with React Materialize for a Material Design look. Authentication is handled by Amazon Cognito.
