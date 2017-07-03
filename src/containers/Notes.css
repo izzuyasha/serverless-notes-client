@@ -1,0 +1,14 @@
+.Notes form {
+  padding-bottom: 15px;
+}
+
+.Notes form textarea {
+  height: 250px;
+  font-size: 16px;
+}
+
+.Notes form Button {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
